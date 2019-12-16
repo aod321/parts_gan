@@ -1,4 +1,8 @@
 # Parts_GAN
+## Model architecuture
+![gan.png](https://i.loli.net/2019/12/16/QF8RJaczkYiTMGb.png)
+I didn‘t pay attention to version control when I am did quick validate and tunning , so the code in the repository may not be exactly the same as in the diagram.
+
 ## Nothing
 This repository is a experimental code to get a raw test for one of my idea: trying to use a GAN-like model to train a automatic FacialParts Croper and Discriminator.
 
